@@ -1,0 +1,7 @@
+{
+    "threads": 40,
+    "tries": 30,
+    "waittime": 30,
+    "get_accounts": true,
+    "blacklist": ["arcor.de", "sina.com", "korea.com", "nexgo.de", "nate.com", "onet.pl", "poczta.onet.pl", "op.pl"]
+}
